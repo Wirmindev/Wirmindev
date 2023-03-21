@@ -13,3 +13,16 @@ I am learning programming in HTML, CSS, JavaScript and SQL, I consider myself a 
 [![Instagram](https://img.shields.io/static/v1?label=WirminRock&message=Instagram&color=critical&style=for-the-badge&logo=Instagram)](https://www.instagram.com/wirminrock/)
 
 ## Programming languages ⌨️
+
+![HTML5](https://img.shields.io/static/v1?label=&message=HTML&color=inactive&style=flat-square&logo=HTML5)
+![CSS3](https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=flat-square&logo=CSS3)
+![JS](https://img.shields.io/static/v1?label=&message=Java%20Script&color=inactive&style=flat-square&logo=JavaScript)
+<br>
+![MYSQL](https://img.shields.io/static/v1?label=&message=My%20SQL&color=success&style=flat-square&logo=mysql)
+<br>
+![JAVA](https://img.shields.io/static/v1?label=&message=Java&color=blue&style=flat-square&logo=oracle)
+
+## Programs to use 💻
+
+![VISUAL](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=blue&style=flat-square&logo=visualstudio)
+
