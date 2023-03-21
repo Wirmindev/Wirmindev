@@ -8,9 +8,8 @@ I am learning programming in HTML, CSS, JavaScript and SQL, I consider myself a 
 ## Contact me! ✉️
 [![Linkedin](https://img.shields.io/static/v1?label=Daniel%20Lopez%20Cervera.&message=Linkedin&color=blue&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniellopezcervera/)
 </br>
-[![ArtStation](https://img.shields.io/static/v1?label=Wirmin&message=ArtStation&color=blue&style=for-the-badge&logo=artstation)](https://www.artstation.com/wirmin)
-</br>
-[![Instagram](https://img.shields.io/static/v1?label=WirminRock&message=Instagram&color=critical&style=for-the-badge&logo=Instagram)](https://www.instagram.com/wirminrock/)
+[![ArtStation](https://img.shields.io/static/v1?label=Wirmin&message=ArtStation&color=orange&style=for-the-badge&logo=artstation)](https://www.artstation.com/wirmin)
+
 
 ## Programming languages ⌨️
 
