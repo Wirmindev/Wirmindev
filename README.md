@@ -15,9 +15,9 @@ I am learning programming in HTML, CSS, JavaScript and SQL, I consider myself a 
 
 ![HTML5](https://img.shields.io/static/v1?label=&message=HTML&color=inactive&style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=flat-square&logo=CSS3)
-![JS](https://img.shields.io/static/v1?label=&message=Java%20Script&color=inactive&style=flat-square&logo=JavaScript)
+![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=inactive&style=flat-square&logo=JavaScript)
 <br>
-![MYSQL](https://img.shields.io/static/v1?label=&message=My%20SQL&color=success&style=flat-square&logo=mysql)
+![MYSQL](https://img.shields.io/static/v1?label=&message=MySQL&color=success&style=flat-square&logo=mysql)
 <br>
 ![JAVA](https://img.shields.io/static/v1?label=&message=Java&color=blue&style=flat-square&logo=oracle)
 
