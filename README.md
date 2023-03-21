@@ -25,4 +25,9 @@ I am learning programming in HTML, CSS, JavaScript and SQL, I consider myself a 
 ## Programs to use 💻
 
 ![VISUAL](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=blue&style=flat-square&logo=visualstudio)
-
+<br>
+![BLENDER](https://img.shields.io/static/v1?label=&message=Blender&color=inactive&style=flat-square&logo=blender)
+<br>
+![SUBTANCEPAINTER](https://img.shields.io/static/v1?label=&message=Subtance%203D%20Painter&color=green&style=flat-square&logo=adobe)
+<br>
+![PHOTOSHOP](https://img.shields.io/static/v1?label=&message=Photoshop&color=orange&style=flat-square&logo=adobe)
